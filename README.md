@@ -9,8 +9,8 @@ And you can import your image to the folder and save \
 Then you can see the image list in here \
 <img src="Screenshot 2022-06-26 162116.png"> 
 ### WallpaperEngine
-If you want to play video with Wallpaper Engine ,you just need go to EditorSetting -> General -> Wallpaper
-then set you steam folder path \
+If you want connect with Wallpaper Engine,you just need go to EditorSetting -> General -> Wallpaper
+then set up you steam folder path .but only video\
 <img src="Screenshot 2022-06-26 163354.png"> \
 or you want to import you onwer video. \
 you should create a new  /steamapps/workshop/content in your video library then move videos to this folder. baceuse the plugin will search this folder and import to play list\
