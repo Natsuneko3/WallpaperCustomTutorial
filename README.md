@@ -19,4 +19,4 @@ you should create a new  /steamapps/workshop/content in your video library then 
 For example : \
 My video library is D:\Newfolder and create new folder in there. 
 <img src="Screenshot 2022-06-26 170518.png"> \
-then fill D:/Newfolder to EditorSetting -> General -> Wallpaper -> Wallpaper Direction
+then write path of D:/Newfolder to EditorSetting -> General -> Wallpaper -> Wallpaper Direction
