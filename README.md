@@ -1,7 +1,6 @@
 # WallpaperCustomTutorial
-This plugin can change your UE background \
-In UE Marketplace for free just search WallpaperCustom to find it \
-it is very easy to use 
+This plugin can change your UE background . make your engine colorful. \
+In UE Marketplace for free just search WallpaperCustom to find it .it is very easy to use 
 ## Tutorial
 ### image
 When you install plugin and open the project you will see a folder name of "Wallpaper" in your content \
