@@ -2,6 +2,13 @@
 This plugin can change your UE background . make your engine colorful. \
 In UE Marketplace for free just search WallpaperCustom to find it .it is very easy to use 
 
+# V1.1
+Add shortcut key of changer backgroundm, defeult is <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>c</kbd>, 
+
+you can Editor preferences -> Ketboard Shortcuts -> ChagngeWallpaper to changer this shortcuts key
+
+---
+
 ## Tutorial
 ### Import image
 
